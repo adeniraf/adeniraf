@@ -1,4 +1,11 @@
-### Hi there 👋
+### •👋🏾 Hi, my name is Fiyin Adeniranye.
+### •👨🏾‍🎓 I'm a 4th-Year Computer Engineering Student at Trinity College, Dublin!
+### •🤩 I'm passionate about Data Science, Machine Learning/Artificial Intelligence!
+### •👨🏾‍💻 I'm proficient in C and C++.
+### •📖 I'm currently learning Javascript, Python, R and SQL!
+### •📫 You can reach me via email: adeniraf@tcd.ie
+### •📲 And you can connect with me on LinkedIn: (https://www.linkedin.com/in/fiyin-adeniranye/)
+
 
 <!--
 **adeniraf/adeniraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
