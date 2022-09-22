@@ -1,4 +1,4 @@
-### •👋🏾 Hi, my name is Fiyin Adeniranye.
+### •👋🏾 Hi, my name is Fiyinfoluwa Adeniranye.
 ### •👨🏾‍🎓 I'm a 4th-Year Computer Engineering Student at Trinity College, Dublin!
 ### •🤩 I'm passionate about Data Science, Machine Learning/Artificial Intelligence and Software Development!
 ### •👨🏾‍💻 I'm proficient in C/C++, Javascript and Python.
