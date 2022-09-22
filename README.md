@@ -1,8 +1,8 @@
 ### •👋🏾 Hi, my name is Fiyin Adeniranye.
 ### •👨🏾‍🎓 I'm a 4th-Year Computer Engineering Student at Trinity College, Dublin!
-### •🤩 I'm passionate about Data Science, Machine Learning/Artificial Intelligence!
-### •👨🏾‍💻 I'm proficient in C/C++ and Python.
-### •📖 I'm currently learning Javascript, R and SQL!
+### •🤩 I'm passionate about Data Science, Machine Learning/Artificial Intelligence and Software Development!
+### •👨🏾‍💻 I'm proficient in C/C++, Javascript and Python.
+### •📖 I'm currently learning Java, R and SQL!
 ### •📫 You can reach me via email: adeniraf@tcd.ie
 ### •📲 And you can connect with me on LinkedIn: (https://www.linkedin.com/in/fiyin-adeniranye/)
 
