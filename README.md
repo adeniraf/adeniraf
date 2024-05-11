@@ -1,7 +1,7 @@
 ### •👋🏾 Hi, my name is Fiyin.
 ### •👨🏾‍🎓 I'm a FullStack Web and App Developer and a Computer Engineering Graduate from Trinity College, Dublin!
 ### •🤩 I'm passionate about Software Development, Data Science, Machine Learning/Artificial Intelligence!
-### •👨🏾‍💻 I'm proficient in Python, C/C++, JavaScript/TypeScript.
+### •👨🏾‍💻 I'm proficient in TypeScript, React, React Native, Python, NodeJS and a host of other technologies and frameworks.
 ### •📫 You can reach me via email: adeniraf@tcd.ie
 ### •📲 And you can connect with me on LinkedIn: (https://www.linkedin.com/in/fiyin-adeniranye/)
 
